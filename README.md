@@ -14,19 +14,19 @@
 
 <ul>
     <li>
-      <a href="https://nhasaniportfolio.netlify.app/">My Portfolio</a> 
+      <a href="https://github.com/Nderim45/portfolio">My Portfolio</a> 
     </li>
     <li>
-      <a href="https://node-real-estate.netlify.app/">Real Estate Web</a> 
+      <a href="https://github.com/Nderim45/estate-frontend/">Real Estate Web</a> 
     </li>
     <li>
-      <a href="https://better-eat.netlify.app/">Better Eat Web</a> 
+      <a href="https://github.com/Nderim45/better-eat">Better Eat Web</a> 
     </li>
   <li>
-      <a href="https://roommeet.netlify.app/">Zoom Clone</a> 
+      <a href="https://github.com/Nderim45/zoom-clone">Zoom Clone</a> 
     </li>
   <li>
-      <a href="https://roommeet.netlify.app/">Incorporate Tax</a> 
+      <a href="https://github.com/Nderim45/incorporate-tax">Incorporate Tax</a> 
     </li>
 </ul>
 </br>
